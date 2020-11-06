@@ -1,0 +1,33 @@
+.task-item {
+  background: #fff;
+  border-radius: 5px;
+  border: #1D2B64 3px solid;
+  cursor: pointer;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px 12px;
+  color: #1D2B64;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.inputNewTitle {
+  border-radius: 5px;
+  border: #1D2B64 3px solid;
+  font-weight: bold;
+  color: #1D2B64;
+  font-size: 14px;
+  display: block;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 3px 5px;
+}
+
+.task-item select {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  padding: 3px 5px;
+  border-radius: 3px;
+}
